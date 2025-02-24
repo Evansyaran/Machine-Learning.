@@ -50,9 +50,11 @@ Used when predicting continuous values like house prices or sales predictions.
 These projects provided a hands-on guide for understanding and implementing classification and regression models in machine learning. Each model has its strengths and limitations, and selecting the right model depends on the dataset and problem type.
 # Next Steps
 
-🔹 Try Hyperparameter Tuning to optimize model performance
-🔹 Implement Random Forest or XGBoost for better accuracy
-🔹 Use Cross-Validation for more reliable evaluation
+🔹 Try Hyperparameter Tuning to optimize model performance.
+
+🔹 Implement Random Forest or XGBoost for better accuracy.
+
+🔹 Use Cross-Validation for more reliable evaluation.
 
 # License
 
